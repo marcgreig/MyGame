@@ -1,10 +1,11 @@
-#include <stdio.h>
+#include <stdlib.h>
 #include <iostream>
 using namespace std;
 
 int main() {
 
-	cout << "hello world" << endl;
+	cout << "HelloWorld" << endl;
 	getchar();
 	return 0;
+
 }

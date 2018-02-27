@@ -20,7 +20,7 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
-    <ProjectGuid>{A18BF72C-8FC0-4F46-B525-6CF7BE4EB3AF}</ProjectGuid>
+    <ProjectGuid>{AAFD6E31-26DB-483C-A772-803207C02CC5}</ProjectGuid>
     <RootNamespace>MyGame</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
